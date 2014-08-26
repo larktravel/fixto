@@ -2,10 +2,10 @@
 
 A jQuery plugin for sticky positioning. Fix containers to the viewport relative to an ancestor. To see it in action you can see the [demo page][demo] or development pages [development page 1][dev1], [development page 2][dev2], [development page 3][dev3].
 
-[demo]: http://bbarakaci.github.com/fixto
-[dev1]: http://bbarakaci.github.com/fixto/dev1.html
-[dev2]: http://bbarakaci.github.com/fixto/dev2.html
-[dev3]: http://bbarakaci.github.com/fixto/dev3.html
+[demo]: http://larktravel.github.com/fixto
+[dev1]: http://larktravel.github.com/fixto/dev1.html
+[dev2]: http://larktravel.github.com/fixto/dev2.html
+[dev3]: http://larktravel.github.com/fixto/dev3.html
 
 - [Features](#features)
 - [Browser support](#browser-support)
@@ -33,8 +33,8 @@ Modern browsers, ie8+ are supported.
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/bbarakaci/fixto/master/dist/fixto.min.js
-[max]: https://raw.github.com/bbarakaci/fixto/master/dist/fixto.js
+[min]: https://raw.github.com/larktravel/fixto/master/dist/fixto.min.js
+[max]: https://raw.github.com/larktravel/fixto/master/dist/fixto.js
 
 Add jQuery
 
